@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/REDataParquet
+/REDataParquet/bin/Debug/netcoreapp3.1
+/REDataParquet/obj
+/SharedCommon/obj
+/SharedCommon/bin/Debug/netcoreapp3.1

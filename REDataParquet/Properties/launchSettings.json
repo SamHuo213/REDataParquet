@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "REDataParquet": {
+      "commandName": "Project",
+      "commandLineArgs": "debug",
+      "environmentVariables": {
+        "debugSettingFilePath": "C:\\Project\\REDataParquet\\REDataParquet\\appsettings.debug.json"
+      }
+    }
+  }
+}
